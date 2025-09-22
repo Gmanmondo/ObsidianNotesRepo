@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "35d8a06da6d609d0",
@@ -171,9 +172,10 @@
   },
   "active": "2831387fce26414b",
   "lastOpenFiles": [
+    "Attatchments/Pasted image 20250922192700.png",
+    "Law & Ethics/Lecture 4 - Moral Engagement.md",
     "ObsidianNotesRepo",
     "Psycology/Lecture 3 - The Mind.md",
-    "Law & Ethics/Lecture 4 - Moral Engagement.md",
     "Attatchments/Pasted image 20250922145655.png",
     "Attatchments/Pasted image 20250922145311.png",
     "Psycology/Lecture 2 - Thinking Critically.md",
