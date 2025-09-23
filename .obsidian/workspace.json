@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law & Ethics/Lecture 4 - Moral Engagement.md",
+                "file": "Psycology/Lecture 3 - The Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Moral Engagement"
+              "title": "Lecture 3 - The Mind"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "35d8a06da6d609d0",
@@ -172,8 +171,8 @@
   },
   "active": "2831387fce26414b",
   "lastOpenFiles": [
-    "Attatchments/Pasted image 20250922192700.png",
     "Law & Ethics/Lecture 4 - Moral Engagement.md",
+    "Attatchments/Pasted image 20250922192700.png",
     "ObsidianNotesRepo",
     "Psycology/Lecture 3 - The Mind.md",
     "Attatchments/Pasted image 20250922145655.png",
