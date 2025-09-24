@@ -1,0 +1,16 @@
+# Ignore volatile UI-related state and cache files
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/.cache
+
+# Ignore system and editor files (adjust based on your setup)
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore the Obsidian trash folder
+.trash/
+
+# Optional: Ignore plugin configurations if you don't want them synced
+# .obsidian/plugins/
