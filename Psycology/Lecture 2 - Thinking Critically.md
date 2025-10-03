@@ -127,6 +127,7 @@ In the US psychological department there are 56 different divisions. Professor L
 	- Hindsight bias
 	- Overconfidence
 	- Tendency to perceive patterns in random events
+		- Conspiracy theories
 Just think about how people are over-confident in comment sections
 
 ## The Goals of Psychology

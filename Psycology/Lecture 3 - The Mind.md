@@ -210,7 +210,7 @@ Structure of the brain
 ##### Parietal Lobes
 - Multiple sensory inputs
 - Outputs to frontal lobes
-- Sensorimotor control
+- Sensory and motor control
 ##### Frontal Lobes
 - No direct sensory input
 - Planning and judgement
