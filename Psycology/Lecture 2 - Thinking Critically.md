@@ -58,7 +58,15 @@ The idea of applying the methods of science to the study of human behavior -- **
 	- Psychoanalytic theory of mental disorders
 		- The importance of the unconscious
 		- Impact of unresolved past conflicts
+---
+**Structuralism:**
+- Titchener
+- identify basic components of conscious experience
+- self reflective/self reported
 
+**Functionalism:**
+- Function of consciousness
+- How behaviour and mental processes function for survival and adaptation
 
 # What do we Notice?
 These are all **WHITE MEN**
