@@ -76,6 +76,7 @@ Group of disorders linked to excessive fear and anxiety and related maladaptive 
 ---
 ## Social Anxiety Disorder
 - Intense fear and avoidance of social situations
+- Gorl
 ---
 # Diatheses-Stress Model
 ![[Pasted image 20251209144429.png]]
@@ -103,6 +104,7 @@ Group of disorders linked to excessive fear and anxiety and related maladaptive 
 ### Possible Causes
 - Genetics
 - Gender
+	- Women more than men
 - Limbic System
 - ---
 ## Obsessive-Compulsive Disorder
