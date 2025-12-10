@@ -186,7 +186,7 @@ Aka "Instrumental Conditioning" or "Skinnerian Conditioning"
 	- Reinforced after a variable interval of time has elapsed
 
 ### Name That Schedule
-**You get 1 air mule for every $20 you spend**
+**You get 1 air mile for every $20 you spend**
 
 
 ### Behavioural Therapy
