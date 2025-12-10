@@ -65,7 +65,7 @@ Agents that can reach the embryo or fetus during parental development and cause 
 	- Men: Production of sperm
 
 ## Adulthood
-- Live Span
+- Life Span
 	- The maximum age possible for members of a given species
 		- Cellular-clock theory
 			- Hayflick Limit: Telomeres at the end of the DNA shorten after every multiplication
@@ -148,12 +148,11 @@ Formal Operational Stage (12-adult)
 	- Resistant (Anxious ambivalent)
 	- Disorganized/Disoriented
 
-### Consequences
+### Consequences - Secure
 - Form internal working models
-- Secure
-	- Believe in romantic love
-	- Satisfying relationships
-		- Happiness, friendliness, mutual trust, enduring
+- Believe in romantic love
+- Satisfying relationships
+	- Happiness, friendliness, mutual trust, enduring
 
 ### Consequences - Resistant
 - Emotional highs and lows
@@ -210,6 +209,7 @@ There isn't any difference in life satisfaction throughout life but self esteem 
 # Dying and Death
 Elizabeth Kubler-Ross proposed five stages in approaching death (**Controversial**)
 - Denial
-- Anger Bargaining
+- Anger
+- Bargaining
 - Depression
 - Acceptance

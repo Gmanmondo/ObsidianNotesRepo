@@ -139,6 +139,7 @@ Aka "Instrumental Conditioning" or "Skinnerian Conditioning"
 
 ### Shaping Behaviour
 - If the desired behaviour is not being exhibited, the experimenter can reward the tester for getting closer to the behaviour they were expecting to begin with.
+- Rewarding successive approximations
 
 ### Terms
 - Reinforcement
