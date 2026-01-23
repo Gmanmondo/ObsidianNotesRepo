@@ -172,7 +172,7 @@ What is it?
 - Can train with an ==experienced expert witness==
 - Independent study
 - ==Formal education== in the physical sciences provides a firm foundation for learning and understanding the principles of forensic science
-- Most importantly - the courts rely on BLANK
+- Most importantly - the courts rely on ==training and years of experience== as measurement of the knowledge and ability of the expert
 
 ## The process in Court
 - Even if you are deemed to be competent, the significance placed on the expert's testimony may greatly depend 
@@ -194,4 +194,4 @@ What is it?
 - Can only offer an opinion based on ==reasonable scientific certainty== derived from training and expertise
 - As an expert, you are expected to defend vigorously the techniques and conclusions of the analysis.
 - Should be an ==Advocate of one party's cause
-- It is the duty of the BLANK
+- It is the duty of the ==judge or jury== to weigh the pros and cons of all the information presented when deciding guilt or innocence
