@@ -43,6 +43,7 @@ If you have an "overwhelming" amount of classical evidence, it can individualize
 
 ## Other Databases
 ### National Integrated Ballistics Information Network (NIBIN)
+- ASSOCIATED: **Integrated Ballistic Identification System** (IBIS)
 - Maintained by Bureau of Alcohol, Tobacco, Firearms, and Explosives
 - Can process markings made by firearm bullets and cartridge casings
 
