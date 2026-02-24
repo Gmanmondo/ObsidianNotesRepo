@@ -133,4 +133,106 @@ not a bad thing. But problem solving is key
 - Project purpose or justification
 - Measurable project objectives
 - High-level requirements
-- 
+- Assumptions and constraints
+- High-level risks
+- Summary milestone schedule
+- Summary budget
+- Stakeholder list
+- Approvals
+
+## Identification
+Name of the project
+Name, title, department of sponsor
+Name of project manager
+
+## Clear Objective
+**SMART**
+- Specific
+- Measurable
+- Acceptable
+- Realistic
+- Time Based
+
+---
+# Traditional, Sequential Project Methodologies
+What are traditional project methodologies?
+- Linear fashion
+- 5 common phases:
+	- Initiation
+	- Planning
+	- Execution
+	- Monitoring
+	- Closure
+
+
+## Waterfall
+Linear method following the 5 key phases
+### Benefits
+Consistent
+Progress tracking is simple
+Discipline
+Early Adjustments
+
+### Cons
+- Roadblocks affect timelines drastically
+- Linear progress makes backtracking difficult
+- Rigid
+- QA happens late in project
+
+---
+# Critical Path Method
+Identify critical tasks in project and schedule them
+
+## Steps in Critical Path
+1. List activities
+2. identify Dependencies
+3. Create Network Diagram
+4. Task Duration Estimation
+5. Critical Path Calculation
+6. Float Calculation
+
+**E.X.:**
+![[Pasted image 20260223164225.png]]
+
+### Benefits
+- Improved Future planning
+- Improved resource management
+- Decreased bottlenecks
+
+### Cons
+- Estimating end date is difficult
+- Critical path can be unclear
+- Networks can be complex
+- Resource allocation is not documented within the critical path
+
+---
+
+# Critical Chain Project Management
+
+## CCPM
+- Emphasises need for resources
+- Uses CPM method but includes extra steps
+
+## Steps
+1. Identify critical chain
+2. Outline resource constraints
+3. Specify team focus
+4. Discourage multitasking
+5. Utilise 50/50 time estimates
+6. Develop buffers
+7. Develop a detailed project plan
+
+**E.X.:**
+![[Pasted image 20260223173320.png]]
+
+## Benefits
+- Good resource management
+- Includes important steps
+- Good time estimation
+
+## Cons
+- Project team dedication required
+- Outcome could be clouded if team isn't working toward a common goal
+- Does not support big planning
+- New method which requires more documentation
+
