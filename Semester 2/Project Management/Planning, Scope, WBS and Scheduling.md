@@ -11,9 +11,9 @@ Work Breakdown Structure
 ## Schedule Development
 - How long will each task on the WBS take?
 - What are the relationships with each task?
-- Independent 
-- Direct Precedence
-- More Complex Relationships
+	- Independent 
+	- Direct Precedence
+	- More Complex Relationships
 
 ## Resource Planning
 - What resources are required?
@@ -31,7 +31,7 @@ Work Breakdown Structure
 
 ## Risk Management
 - What can you expect in the way of unknowns?
-- can you eliminate/mitigate risk?
+- can you eliminate/reduce/mitigate risk?
 
 ## Quality Planning
 - What is the required quality?
@@ -156,7 +156,7 @@ Traditional Gantt chart does not show dependencies whereas modern charts add cri
 ![[Pasted image 20260223201657.png]]
 
 ## Network Diagram
-- Know as PERT or PERT/CPM chart
+- Known as PERT or PERT/CPM chart
 - Task relationships
 - Used to determine critical path
 - Software like Microsoft Project can be used for this
