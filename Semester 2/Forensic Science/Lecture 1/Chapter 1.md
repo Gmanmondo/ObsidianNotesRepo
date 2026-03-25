@@ -45,9 +45,8 @@ Bertillon's system of bodily measurements to identify people.
 - Lab staff can be anywhere from 1-100 people
 ---
 **ALL DRUG ARRESTS MUST BE SENT TO A LAB FOR CONFIRMATION**
---
 
-DNA sample have created a big backlog
+DNA samples have created a big backlog
 
 # Basic Services of "Full-Service" Crime Labs
 - Physical science

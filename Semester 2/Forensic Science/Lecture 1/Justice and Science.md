@@ -90,10 +90,9 @@ Referring to evolution as a scientific theory is incorrect, because it is a scie
 
 # Modern Practice of Forensic Science
 
-| CSI                                                                                                                                                              | Forensic Scientists                                                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - Police officers<br>	- General Patrol<br>	- Post - Secondary unit<br>	- SOCO<br>	- Police academies<br>	- Forensic identification unit<br>	- Multi-disciplinary | Scientists/technicians                                          Undergraduate education<br>Postgraduate education<br>Laboratory based<br>University based<br>One discipline |
-|                                                                                                                                                                  |                                                                                                                                                                             |
+| CSI                                                                                                                                                              | Forensic Scientists                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| - Police officers<br>	- General Patrol<br>	- Post - Secondary unit<br>	- SOCO<br>	- Police academies<br>	- Forensic identification unit<br>	- Multi-disciplinary | Scientists/technicians<br>Undergraduate education<br>Postgraduate education<br>Laboratory based<br>University based<br>One discipline |
 - Public labs - Funded by government
 - Private labs - designed to make a profit
 

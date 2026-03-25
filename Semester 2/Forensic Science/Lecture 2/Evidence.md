@@ -57,7 +57,7 @@ Admissible evidence must be:
 	- What, specifically, the court should weigh in making that assessment
 
 # Daubert Decision (1993)
-- Daubert and Shuller's expert testimony **was disallowed for not using acceptance scientific methods**
+- Daubert and Shuller's expert testimony **was disallowed for not using accepted scientific methods**
 	- Key component is falsifiability
 
 ![[Pasted image 20260123090003.png]]
