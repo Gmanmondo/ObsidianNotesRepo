@@ -79,11 +79,71 @@ Give valuable information but not usually used for calculating time since death
 
 ## Min PMI
 - When the body is first colonized
+- When the first eggs are laid
+- There could be delay in the pre-colonisation period.
+	- E.g., If the body is put in a morgue, there is a delay between when the body dies, and the flies are able to colonize the body as it's kept refrigerated and clean
+- Important to know to determine possible delays in arrival of insects on the body
 
-## Determining minimum post mortem interval
-### Method 1: Insect Development
+## Time of Colonization (TOC)
+- Similar to PMI
+- This also includes colonization before death (myiasis)
+![[Pasted image 20260326095905.png]]
+## Determining Minimum Post Mortem Interval
+### Method 1: Insect Development (Early)
 - Aging the oldest immature insects
 	- Hours, days, weeks
-### Method 2: Insect succession
+- Determine when female flies first laid eggs on the body
+- Temperature is essential
+- Calculate accumulated degree days (ADD) or hours (ADH
+	- Temperature summation units based on development data for each species)
+- **Not viable once primary colonisers become adults**
+#### Why Temperature is Important
+- Insects are cold blooded and will develop faster in warmer climates
+- Temperature at the scene can differ from the nearest weather station
+
+
+### Method 2: Insect succession (Later)
 - Successional colonization of insects present on the body
 	- Weeks, months -> Year+
+- Body goes through rapid biological, chemical and physical changes
+- Attractive to predictable sequence of insects
+- Require the assemblage of all insects, not just one species
+- Varies with habitat, season, geographic area
+
+---
+# Application to Casework
+- PMI
+- Neglect
+- Entomotoxicology
+- Extracting human DNA
+- Disposal of body
+- Movement of the body after death
+
+## Manner of Death
+- Suicide or murder?
+	- Should larvae be here?
+- E.g., Suspected suicide victim was found with primary colonisers around the hands when they aren't usually there. This is odd and required further investigation. Thurns out it was murder as they were stabbed through the hands in an attempt to protect themselves.
+
+## Disposal of a Body
+- Location will affect decomposition and insect colonisation
+	- If left in a house vs in the forest vs in a freezer
+
+## Damage to Body/Clothing
+- Larvae may move clothing to appear like a sexual assault took place
+- Feed on tissue around a wound, destroying evidence
+
+## Living Hosts (Myiasis)
+- Certain species are attracted to live hosts
+	- Vulnerable persons
+	- Unsanitary conditions
+- Commonly found:
+	- Lucilia sericata (Greenbottle)
+		- Living Host
+	- Musca Domestica (House Fly)
+		- Faeces
+
+## Larvae Tissue (DNA & Drugs)
+- Extracting human DNA from abdomen of larvae
+- Presence of drugs in a body if found in larvae
+	- Cannot determine quantity but if it's present
+
