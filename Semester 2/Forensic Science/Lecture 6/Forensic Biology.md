@@ -1,10 +1,8 @@
-# The three W's of Forensic Biology
+# The Three W's of Forensic Biology
 ## What?
 Are we looking at body fluid, DNA, Etc.
-
 ## Who?
 Who's is it, Are they a suspect, what can we derive from this information
-
 ## How?
 How was it retrieved? How is it significant? How can it be useful?
 
@@ -25,8 +23,8 @@ Chemical blood tests include the:
 	- Spray in dark -> Blue glow (chemiluminescence)
 	- ✔Detects trace blood
 	- ✔Detects even after washing
-	- ❌Can react with bleach/copper
-	- ❌Can dilute DNA if overused
+	- ❌==BUT== Can react with bleach/copper
+	- ❌==BUT== Can dilute DNA if overused
 **We are looking for the Hemoglobin**
 
 ## Semen
@@ -50,9 +48,9 @@ The Phadebas test (Presumptive test)
 - It works by identifying the levels of α-amylase (breaks down starch -> sugars)
 - An enzyme present in saliva
 
-- Using a tablet made of starch +blue dye
+- Using a tablet made of starch + blue dye
 - If amylase is present it breaks down the starch and releases the blue dye
-- Blue color = positive fore saliva
+- Blue color = positive for saliva
 
 - ✔Saliva has very high amylase
 - ✔Good for
@@ -83,7 +81,7 @@ Showing 7 repeats vs 8 repeats
 - Different number of repeats = different Alleles
 
 At each STR location (locus), you get:
-- one allele from mom
+- One allele from mom
 - One allele from dad
 - You might see
 	- 7, 8
@@ -267,7 +265,7 @@ Forensic scientists can use these databases to create a family tree and find rel
 Twins have the same DNA
 - DNA sequencing can't tell them apart
 
-## Deep Genome sequencing
+## Deep Genome Sequencing
 Looks at tiny mutations that happen over time
 Develop small genetic differences
 

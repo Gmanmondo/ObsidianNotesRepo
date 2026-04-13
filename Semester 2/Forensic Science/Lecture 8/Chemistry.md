@@ -25,6 +25,7 @@
 	- ==Hallucinations
 	- ==Insomnia
 	- ==Sweating
+	- ==Chills==
 - The desire to avoid withdrawal is what ultimately leads to dependence
 # Drug Classifications
 ## Narcotics

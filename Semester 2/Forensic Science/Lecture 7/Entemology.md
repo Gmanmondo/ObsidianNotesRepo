@@ -56,7 +56,7 @@ Give valuable information but not usually used for calculating time since death
 ## Bloat
 - Gasses collect and swell the body
 - Bacteria create more gas
-- Obvious order
+- Obvious odor
 ## Active
 - Recognisable decay of the carcass
 - Lots of insect activity
