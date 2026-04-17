@@ -49,7 +49,9 @@ If you probe matter with energy you can figure out useful information about it
 	- ==25 -1200x== is possible
 	- ==40 - 400x== commonly employed in forensics
 - Mainly used to collect morphological information:
-	- BLANK
+	- ==Info related to the structure (size, shape, etc.)
+- Micrometry: a calibrated micrometer placed in the EP of a microscope
+	- ==enables accurate measurements to be taken
 
 ### Comparison Microscopy
 - At least one type will be present in every major crime laboratory
@@ -57,7 +59,7 @@ If you probe matter with energy you can figure out useful information about it
 	- Also allows superposition of the two images
 - Classical, transmission illumination, and even PLMs can be oriented similarly
 	- Critical for ==side-by-side comparison== of evidence
-- Many experts suggest this is: ==The only=== BLANK
+- Many experts suggest this is: ==The only valid way to compare two pieces of evidence
 
 
 ### Scanning Electron Microscope (SEM)
@@ -87,9 +89,9 @@ Common type of microscopic evidence, frequently encountered as transfer evidence
 
 ## Individualization of glass
 - Due to the ubiquity of glass, analysis can be challenging
-- Glass possesses it greatest evidential value when it can be ==individualized to one source== (Class evidence)
+- Glass possesses its greatest evidential value when it can be ==individualized to one source== (Class evidence)
 	- This can only truly be done when two pieces of glass can be physically matched together
-- Individualization comparisons require"
+- Individualization comparisons require:
 	- Piecing together ==irregular edges==
 	- Matching all ==irregularities and striations== on broken surfaces
 
@@ -169,6 +171,7 @@ Steps:
 - The cuticle is the scale structure covering ==the exterior of the hair
 	- The scales always point towards the ==tip of the hair==
 	- The scale pattern is useful in ==identifying the animal of origin==
+- **HUMANS HAVE IMBRICATE CUTICLES**
 
 
 ## Cortex
@@ -177,7 +180,7 @@ Main body of hair shaft
 - BLANK
 
 ## Medulla
-The medulla is a cellular column running through the center of the hair\
+The medulla is a cellular column running through the center of the hair
 ![[Pasted image 20260213100414.png]]
 
 - Less than one-third of the diameter of the shaft
@@ -217,7 +220,7 @@ Man made fibers
 	- acetate
 - Synthetic fibres are made from chemicals
 	- nylons
-	- polyesters'
+	- polyesters
 	- acrylics
 Synthetic fibers are composed of polymers, or macromolecules, which are a large number of atoms arranged in repeating units known as monomers
 

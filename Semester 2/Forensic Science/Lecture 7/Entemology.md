@@ -122,7 +122,7 @@ Give valuable information but not usually used for calculating time since death
 ## Manner of Death
 - Suicide or murder?
 	- Should larvae be here?
-- E.g., Suspected suicide victim was found with primary colonisers around the hands when they aren't usually there. This is odd and required further investigation. Thurns out it was murder as they were stabbed through the hands in an attempt to protect themselves.
+- E.g., Suspected suicide victim was found with primary colonisers around the hands when they aren't usually found there. This is odd and required further investigation. Thurns out it was murder as they were stabbed through the hands in an attempt to protect themselves.
 
 ## Disposal of a Body
 - Location will affect decomposition and insect colonisation
